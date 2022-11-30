@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Yanan Liu
+- 👋 Hi, I’m Lynn
 - 👀 I’m interested in reinforcement learning and human exploration behavior
-- 🌱 I’m currently learning computer science and application in cognitive neuroscience
+- 🌱 I’m currently studying computer science and application in cognitive neuroscience at Beijing Normal University
+- 🎬 My favorite movie is The Secret Life of Walter Mitty
+- 🎮 My favorite game is Splatoon
 - 📫 How to reach me lynn0503@outlook.com
 
 <!---
