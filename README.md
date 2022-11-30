@@ -3,6 +3,7 @@
 - 🌱 I’m currently studying computer science and application in cognitive neuroscience at Beijing Normal University
 - 🎬 My favorite movie is The Secret Life of Walter Mitty
 - 🎮 My favorite game is Splatoon
+- 🥎 Tennis beginner
 - 📫 How to reach me lynn0503@outlook.com
 
 <!---
