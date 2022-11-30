@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lynn
 - 👀 I’m interested in reinforcement learning and human exploration behavior
-- 🌱 I’m currently studying computer science and application in cognitive neuroscience at Beijing Normal University
+- 🌱 I’m currently studying Computer Science and Application in Cognitive Neuroscience at Beijing Normal University
 - 🎬 My favorite movie is The Secret Life of Walter Mitty
 - 🎮 My favorite game is Splatoon
 - 🥎 Tennis beginner
