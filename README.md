@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lynn at Beijing Normal University
-- 👀 I’m interested in reinforcement learning and human exploration behavior
+- 👀 I’m interested in reinforcement learning, exploration and intrinsic motivation 
 - 🌱 I’m currently studying Computer Science and Application in Cognitive Neuroscience and Learning
 - 🎬 My favorite movie is The Secret Life of Walter Mitty
 - 🥎 Tennis beginner
