@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Lynn at Beijing Normal University
+- 👋 Hi, I’m Lynn, an incoming PhD student to the Integrated Neuroscience Program at Mcgill University.
 - 👀 I’m interested in reinforcement learning, exploration and intrinsic motivation 
-- 🌱 I’m currently studying Computer Science and Application in Cognitive Neuroscience and Learning
 - 🎬 My favorite movie is The Secret Life of Walter Mitty
 - 🥎 Tennis beginner
 - 📫 How to reach me lynn0503@outlook.com
