@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Lynn, an incoming PhD student to the Integrated Neuroscience Program at Mcgill University.
-- 👀 I’m interested in dopamine, reinforcement learning, exploration and intrinsic motivation 
+- 👋 Hi, I’m Lynn, a PhD student at the Integrated Neuroscience Program at Mcgill University.
+- 🧠 My research focus on human brain, espeically large-scale brain networks based on neuroimaging
+- 👀 I’m also interested in dopamine, reinforcement learning, exploration and intrinsic motivation 
 - 🎬 My favorite movie is The Secret Life of Walter Mitty
 - 🥎 Tennis beginner
 - 📫 How to reach me lynn0503@outlook.com
