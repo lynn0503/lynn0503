@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lynn, a PhD student at the Integrated Neuroscience Program at Mcgill University.
+- 👋 Hi, I’m Lynn, a PhD student at the Integrated Neuroscience Program, Mcgill University.
 - 🧠 My research focus on human brain, espeically large-scale brain networks based on neuroimaging
 - 👀 I’m also interested in dopamine, reinforcement learning, exploration and intrinsic motivation 
 - 🎬 My favorite movie is The Secret Life of Walter Mitty
